@@ -4,7 +4,7 @@ Omnidirectional video streaming QoE database
 This repository contains the constructed adaptive omnidirectional video streaming QoE database for the paper "[A Quality-of-Experience Database for Adaptive Omnidirectional Video Streaming](https://ieeexplore.ieee.org/abstract/document/10198220)", Xuelin Liu, Jiebin Yan, Zheng Wan, Yuming Fang and Zhou Wang, *IEEE Journal of Selected Topics in Signal Processing*, 2023.
 
 ## VR QoE Database
-The proposed adaptive omnidirectional video streaming QoE database and the annotations (MOS, HMD data) can be downloaded at the Baiduyun or Google drive.
+The proposed adaptive omnidirectional video streaming QoE database and the annotations (MOS, HMD data) can be downloaded at the [Baiduyun](https://pan.baidu.com/s/1w59IOnHZPhpi4qfNsD4kng) (Password: 73hb) or Google drive.
 
 ## Citation
 Please cite our papers if it helps your research:
